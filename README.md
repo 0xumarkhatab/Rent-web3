@@ -10,7 +10,7 @@
 
 ## Inspiration
 Web3 is booming. Future is promising with the opportunities Metaverse will bring.<br/>
-But some Web3 assets became the cake of rich since they were launched like NFTs.
+But some Web3 assets became the cake of rich since they were launched - NFTs for example.
 
 Due to tremendous use cases of NFTs like
 
