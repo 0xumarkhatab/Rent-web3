@@ -2,10 +2,7 @@
 
 ![WhatsApp Image 2022-11-15 at 2 18 25 AM](https://user-images.githubusercontent.com/71306738/201767517-bf9dc0b7-54ae-475b-b2d3-698753a1d34b.jpeg)
 
-## Github repo Link
-## Devpost URL
-## Video link
-( 3 mins max for tron and <=5 min for chainlink )
+Website link :  
 
 
 ## Inspiration
@@ -44,7 +41,7 @@ Good way to earn passive income.
 ### Developers
 They can build a website that does whitelisting and sale of the NFTs <br/>
 by interacting with already deployed smart contracts. <br/>
-These deployed contracts are dynamic means that same website can be rented for different collections, time after time. 
+These deployed contracts are dynamic means that same website <br/> can be rented for different collections, time after time. 
 
 #### Techical Example
 
@@ -93,7 +90,7 @@ Users are People that can borrow NFTs and use them till specific time .
 | Built a demo ERC721 contract        |100%    |    
 | Built a rentable version of ERC721 ( using IERC4907 standard )       |  100%  |
 |  Built an NFT renting Tracker smart contract       |  100%  |
-| Tested smart contracts in Remix ID      | 100%   |
+| Tested smart contracts in Remix and tron IDE      | 100%   |
 | Built a dummy UI for uploading NFTs      |  100%  |
 | Uploading NFTs UI integration with smart contracts      |   100% |
 | UI to show available and rented NFTs       |  100%  |
@@ -141,5 +138,5 @@ We are implementing their basic features, but in distant future we are aiming to
 -   Variety of Dapps to rent
 -   APIs to build scalable apps on top of our platform ( composability )
 -   More to be added
-### End of document but start of a New Journey....
+
 
