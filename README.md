@@ -1,6 +1,6 @@
 
-![WhatsApp Image 2022-11-15 at 2 18 25 AM](https://user-images.githubusercontent.com/71306738/201767517-bf9dc0b7-54ae-475b-b2d3-698753a1d34b.jpeg)
 
+![WhatsApp Image 2022-11-15 at 2 18 25 AM](https://user-images.githubusercontent.com/71306738/201767517-bf9dc0b7-54ae-475b-b2d3-698753a1d34b.jpeg)
 
 ## Github repo Link
 ## Devpost URL
@@ -80,8 +80,10 @@ Users are People that can borrow NFTs and use them till specific time .
 | Made Website Integration Frontend       |  100%      |
 | Made a WebsiteRent Smart contract        |     100%   |
 | Integrated websiteRent contract with UI     |      100%  |
-| Tested Entire whitelist sale creation and renting the dapp                    |    70%    |
-|Displaying NFT collection on rented Dapp     |     0%   |
+| Tested Entire whitelist sale creation and renting the dapp                    |    100%    |
+|Displaying NFT collection on rented Dapp     |     100%   |
+|Perform whitelisting of collection     |     100%   |
+|Perform minting for Ethereum     |     100%   |
 
 
 ##### NFT Renting
@@ -94,9 +96,9 @@ Users are People that can borrow NFTs and use them till specific time .
 | Tested smart contracts in Remix ID      | 100%   |
 | Built a dummy UI for uploading NFTs      |  100%  |
 | Uploading NFTs UI integration with smart contracts      |   100% |
-| UI to show available and rented NFTs       |  50%  |
+| UI to show available and rented NFTs       |  100%  |
 |NFT uploading and renting tested|100%|
-|Adding Filters| 10%|
+|Adding Filters| 100%|
     
 ## Challenges we ran into
 We faced many but here are few
@@ -125,22 +127,12 @@ When we wanted to show available NFTs and Dapps for rent <br/>
 we wanted the storage to be decentralized but smart contract performs a bunch of stuff with the records.<br/>
 We could load available NFTs from smart contracts but it is a slow process and User Experience might suffer. <br/>
 We have achieved both User Experience and Decentralized storage properties with **IPFS and filecoin's web3 storage**.
-
-## RentWeb3 Flow
-while writing flow of our project we have to enter images of website.<br/>
-We have to make a separate doc for it in which we have to mention <br/>
-(
-key features and how top perform them on website
-)
-
-## Revenue Model
-
-## Accomplishments that we're proud of
-we have to mention five points of judging criteria <br/>
-plus that we have implemented this project for three different Blockchains (tron ,ethereum ,polygon ,tron).
-
 ## What we learned
-To be added
+
+      Working with multiple Blockchains
+      Crafting a good user experience
+      Built industry level Smart Contracts
+      Grasped strong understanding of IPFS ,Tron development tools and NFTs in depth
 ## What's next for RentWeb3
 We are aiming to be the number one marketplace for Renting Web3 assets Globally.<br/>
 Currently we are dealing with NFT and Dapp renting that are NFT centered. <br/>
